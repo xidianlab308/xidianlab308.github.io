@@ -6,6 +6,6 @@ lightgallery: true
 ---
 
 ## Location
-Room 1502, Master Teaching Building
+308 west room, EIII Building
 
 ![Contact](./map.jpg)
