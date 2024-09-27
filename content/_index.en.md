@@ -1,23 +1,12 @@
-# Welcome to the Cyber Security Laboratory
+# Laboratory Introduction
 
-<p style="text-align:justify">
-We are a research group at the College of Computer Science, Chongqing University, China. We aim to explore and solve potential security problems in the field of artificial intelligence and computer science with the rapid development of computer technology in the new environment of the 21st century.
-</p>
+The Network and Information Security Open Innovation Laboratory is based on national key laboratories and Shaanxi Provincial Key Laboratories, and has established joint laboratories in cooperation with Qihoo 360, Clover Company, Knownsec, etc. With the aim of improving cyber security literacy, popularizing cyber security knowledge, enhancing cyber security awareness, raising the level of cyber security, and solving cyber security problems, the Xidian Network and Information Security Association and the Xidian Computer and Network Technology Engineering Workshop Maker Space have been established to provide students with a platform for cyber security learning, communication and scientific research.
 
 {{< slide >}}
 
-<p style="text-align:justify">
-Our team tries to ensure the security and privacy of various computer systems and also explore the new security and privacy research directions of big data, machine learning, networks and hardware. We hope to be able to put forward new theory and promote the development in the computer field. We also hope our works can be applied to solve the information security problems in several areas of life, which, in turn, promotes the development and progress of the society.
-</p>
+# Research Directions
 
-<p style="text-align:justify">
-We are at Chongqing University that is a national university in the Shapingba district of Chongqing, China. It is a member of the Project 211 and Project 985 which aims to transform Chinese universities into better research institutions.
-</p>
-
-# News
-
-{{< homepage-news-en >}}
-
-# Quick Links
-
-{{< quick-link-en >}}
+1. **Network and Information Security**: Security penetration testing, malicious code analysis and blocking, protocol security analysis, Web security protection tools.
+2. **Cryptography**: Basic theory of cryptography, applications of cryptography, cryptographic protocols, cryptographic algorithms, security analysis of cryptography.
+3. **Artificial Intelligence**: Machine learning, deep learning, natural language processing, computer vision, pattern recognition, intelligent control.
+4. **High-Performance Computing**: High-performance computing, parallel computing, distributed computing, big data processing, cloud computing, big data analysis.
