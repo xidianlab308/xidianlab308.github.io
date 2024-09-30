@@ -1,15 +1,16 @@
 - name: 沈玉龙
-  photo: ShangweiGuo.jpg
+  photo: shenyulong.jpg
   info: 教授，国家级人才，陕西省网络与系统安全重点实验室副主任
   email: ylshen@mail.xidian.edu.cn
   biography: 长期从事下一代网络安全、云计算与数据安全等研究。近年来主持和承担了国家重点研发计划、国家自然科学基金重点项目等20余项，以主要完成人获国家技术发明二等奖2项，省部级一等奖5项。
    研发的“秦盾”云加密数据库系统获中国科协创新创业大赛金奖（16/1800+）和最佳商业投资价值奖（2/1800+），获2018 CCTV中国十大创业榜样（当时高校唯一）。发表SCI/EI论文100余篇，Google scholar他引2000余次，出版专著7部；授权发明专利70余项，PCT专利5项，已转让专利13项；登记软著40多项；制定中国通信/电子行业标准5项。
   position: director
-  cv: /zh-cn/txiang/
+  cv: https://web.xidian.edu.cn/ylshen/
 
 - name: 刘遥
-  photo: NingWang.jpg
+  photo: liuyao.jpg
   info: 21级软件工程web工程与信息系统方向
   email: yaoliu548926@gmail.com
   biography: 实验室21级负责人。推免至中国科学院计算技术研究所高性能计算机研究中心。
   position: member
+  cv: https://www.napleon.cn/
