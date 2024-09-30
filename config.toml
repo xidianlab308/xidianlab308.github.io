@@ -114,19 +114,19 @@ theme = 'LoveIt'
         url = "/"
         title = ""
         weight = 1
-      [[languages.zh-cn.menu.main]]
-        identifier = "news"
-        pre = ""
-        post = ""
-        name = "新闻"
-        url = "/news/"
-        title = ""
-        weight = 2
+#      [[languages.zh-cn.menu.main]]
+#        identifier = "tests"
+#        pre = ""
+#        post = ""
+#        name = "招新题"
+#        url = "/tests/"
+#        title = ""
+#        weight = 2
       [[languages.zh-cn.menu.main]]
         identifier = "team"
         pre = ""
         post = ""
-        name = "研究团队"
+        name = "团队"
         url = "/team/"
         title = ""
         weight = 3
@@ -146,13 +146,13 @@ theme = 'LoveIt'
 #        url = "/publications/"
 #        title = ""
 #        weight = 5
-#      [[languages.zh-cn.menu.main]]
-#        identifier = "seminars"
-#        pre = ""
-#        name = "学术沙龙"
-#        url = "/seminars/"
-#        title = ""
-#        weight = 6
+      [[languages.zh-cn.menu.main]]
+        identifier = "seminars"
+        pre = ""
+        name = "招新题目"
+        url = "/seminars/"
+        title = ""
+        weight = 6
       [[languages.zh-cn.menu.main]]
         identifier = "contact"
         pre = ""
@@ -161,14 +161,14 @@ theme = 'LoveIt'
         url = "/contact/"
         title = ""
         weight = 7
-      [[languages.zh-cn.menu.main]]
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/csl-cqu"
-        title = "GitHub"
-        weight = 8
+#      [[languages.zh-cn.menu.main]]
+#        identifier = "github"
+#        pre = "<i class='fab fa-github fa-fw'></i>"
+#        post = ""
+#        name = ""
+#        url = "https://github.com/csl-cqu"
+#        title = "GitHub"
+#        weight = 8
     [languages.zh-cn.params]
       # 网站描述
       description = "西电EIII308西网络安全创新开放实验室主页"
