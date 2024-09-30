@@ -39,21 +39,6 @@
                 {{- if .Site.Menus.main -}}
                     <span class="menu-item delimiter"></span>
                 {{- end -}}
-                {{- if .Site.IsMultiLingual -}}
-                    {{ if eq .Language.LanguageName "English"}}
-                    <a href="/zh-cn{{ .RelPermalink }}" class="menu-item language">
-                        简体中文 <i class="fas fa-chevron-right fa-fw"></i>
-                    </a>
-                    {{ end }}
-                    {{ if eq .Language.LanguageName "简体中文"}}
-                    <a href='{{ replace .RelPermalink "/zh-cn" "" 1 }}' class="menu-item language">
-                        English <i class="fas fa-chevron-right fa-fw"></i>
-                    </a>
-                    {{ end }}
-                {{- end -}}
-                <a href="javascript:void(0);" class="menu-item theme-switch" title="{{ T "switchTheme" }}">
-                    <i class="fas fa-adjust fa-fw"></i>
-                </a>
             </div>
         </div>
     </div>
@@ -120,21 +105,6 @@
                 <a class="menu-item" href="{{ $url }}" title="{{ .Title }}"{{ if (urls.Parse $url).Host }} rel="noopener noreffer" target="_blank"{{ end }}>
                     {{- .Pre | safeHTML }}{{ .Name }}{{ .Post | safeHTML -}}
                 </a>
-            {{- end -}}
-            <a href="javascript:void(0);" class="menu-item theme-switch" title="{{ T "switchTheme" }}">
-                <i class="fas fa-adjust fa-fw"></i>
-            </a>
-            {{- if .Site.IsMultiLingual -}}
-                {{ if eq .Language.LanguageName "English"}}
-                <a href="/zh-cn{{ .RelPermalink }}" class="menu-item language">
-                    简体中文 <i class="fas fa-chevron-right fa-fw"></i>
-                </a>
-                {{ end }}
-                {{ if eq .Language.LanguageName "简体中文"}}
-                <a href='{{ replace .RelPermalink "/zh-cn" "" 1 }}' class="menu-item language">
-                    English <i class="fas fa-chevron-right fa-fw"></i>
-                </a>
-                {{ end }}
             {{- end -}}
         </div>
     </div>
