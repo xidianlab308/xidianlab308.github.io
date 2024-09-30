@@ -1,10 +1,10 @@
 ---
 weight: 4
-title: "Markdown 基本语法"
-date: 2022-04-20T09:40:28+08:00
+title: "24级招新题"
+date: 2024-09-30T09:40:28+08:00
 draft: false
-author: "王浩"
-description: "这篇文章展示了基本的 Markdown 语法和格式."
+author: "yaoliu"
+description: "本篇文章针对24级进行考核."
 resources:
 - name: "featured-image"
   src: "featured-image.png"
