@@ -28,3 +28,7 @@ lightgallery: true
 6. [Understanding the Performance of Sparse Matrix-Vector Multiplication](http://pdsg.cslab.ece.ntua.gr/~nkoziris/papers/pdp08understanding.pdf)
 
 # 密码学
+
+1. [Ciphertext-Policy Attribute-Based Encryption | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/4223236)
+2. [Multi-authority Attribute Based Encryption | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-540-70936-7_28)
+3. [Efficient generic on-line/off-line (threshold) signatures without key exposure - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0020025508002569)
