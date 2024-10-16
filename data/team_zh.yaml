@@ -1,3 +1,11 @@
+- name: 王栗政
+  photo: wlz.jpg
+  info: 20级网络空间安全实验班
+  email: lizhengwang@sjtu.edu.cn
+  biography: 实验室保洁。推免至上海交通大学电子与电气工程学院。研究方向:后量子密码、零知识证明、应用密码学
+  position: member
+  cv: https://wanglizheng.com
+
 - name: 刘遥
   photo: liuyao.jpg
   info: 21级软件工程web工程与信息系统方向
@@ -15,7 +23,7 @@
   cv: 
 
 - name: 吕明远
-  photo: 
+  photo: lvmingyuan.jpg
   info: 21级网络空间安全实验班
   email: 
   biography: 实验室闲人，推免至浙江大学电气工程学院(直博)。研究方向:Iot Security。
@@ -31,15 +39,15 @@
   cv: 
 
 - name: 赵人毅
-  photo: 
+  photo: zeroy.jpg
   info: 21级网络空间安全实验班
-  email: 推免至中科院软件所可信计算与信息保障实验室。
-  biography: 
+  email: zeroy0410@gmail.com
+  biography: 实验室闲人。推免至中科院软件所。研究方向：软件安全(Software Security)、程序语言(PL)
   position: member
   cv: 
 
 - name: 陈依玲
-  photo: 
+  photo: cly.jpg
   info: 21级信息安全
   email: 
   biography: 推免至复旦大学。
@@ -47,7 +55,7 @@
   cv: 
 
 - name: 李盛
-  photo: 
+  photo: lisheng.jpg
   info: 21级网络空间安全实验班
   email: 
   biography: 推免至中科院信工所。
@@ -55,7 +63,7 @@
   cv: 
 
 - name: 卓凡
-  photo: 
+  photo: zhuofan.jpg
   info: 22级网络空间安全实验班
   email: 
   biography: 
@@ -63,15 +71,15 @@
   cv: 
 
 - name: 孔琳
-  photo: 
+  photo: killen.jpg
   info: 22级计算机科学与技术拔尖班
-  email: 
+  email: Killeen.041006@gmail.com
   biography: 
   position: member
-  cv: 
+  cv: https://rafflesia-k.github.io/
 
 - name: 田怡梦
-  photo: 
+  photo: tym.jpg
   info: 22级信息工程
   email: 
   biography: 
@@ -79,7 +87,7 @@
   cv: 
 
 - name: 刘芮彤
-  photo: 
+  photo: lrt.jpg
   info: 22级网络空间安全
   email: 
   biography: 
