@@ -18,11 +18,11 @@ lightgallery: true
 
 <!--more-->
 
-# 前置篇：学习Markdown语法并挑选一个自己喜欢的编辑器
+# 前置篇：学习Markdown
 
-# 前置篇：理解编译和链接的概念，搭建Vscode的C语言环境
+# 前置篇：搭建Vscode的C语言环境
 
-# 前置篇：学习使用版本控制工具Git，创建一个Github账号
+# 前置篇：学习使用Git，创建一个Github账号
 
 # 前置篇：矩阵的概念与运算
 
