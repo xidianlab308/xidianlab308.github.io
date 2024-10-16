@@ -44,4 +44,4 @@ lightgallery: true
 
 ## 矩阵运算优化
 
-# 进阶篇：使用任意语言实现矩阵运算，并上传至Github，附有Readme
+# 进阶篇
