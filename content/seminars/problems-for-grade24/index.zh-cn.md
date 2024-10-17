@@ -6,8 +6,8 @@ draft: false
 author: "yaoliu"
 description: "本篇文章针对24级进行考核."
 resources:
-- name: "featured-image"
-  src: "featured-image.png"
+- name: 
+  src: 
 
 tags: ["Markdown", "HTML"]
 
