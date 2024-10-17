@@ -2,9 +2,32 @@
   photo: wlz.jpg
   info: 20级网络空间安全实验班
   email: lizhengwang@sjtu.edu.cn
-  biography: 实验室保洁。推免至上海交通大学电子与电气工程学院。研究方向:后量子密码、零知识证明、应用密码学
+  biography: 实验室保洁。推免至上海交通大学电子与电气工程学院。研究方向:后量子密码、零知识证明
   position: member
   cv: https://wanglizheng.com
+
+- name: 贾儒宇
+  photo: jry.jpg
+  info: 20级网络空间安全实验班
+  email: 
+  biography: 
+  position: member
+  cv: 
+
+- name: 陈睿
+  photo: cr.jpg
+  info: 20级计科网安方向
+  email: 
+  biography: 
+  position: member
+  cv: 
+- name: 李子一
+  photo: lzy.jpg
+  info: 20级经管院金融学方向
+  email: lzy769568190@163.com
+  biography: 实验室编外人员；推免至武汉大学经济与管理学院；研究方向:金融科技
+  position: member
+  cv: 
 
 - name: 刘遥
   photo: liuyao.jpg
@@ -17,7 +40,7 @@
 - name: 胡博睿
   photo: huborui.jpg
   info: 21级通信工程
-  email: 
+  email: boruihu2024@163.com
   biography: 实验室打杂人员，推免至北京大学电子学院，研究方向:信息与信号处理。
   position: member
   cv: 
@@ -42,12 +65,12 @@
   photo: zeroy.jpg
   info: 21级网络空间安全实验班
   email: zeroy0410@gmail.com
-  biography: 实验室闲人。推免至中科院软件所。研究方向：软件安全(Software Security)、程序语言(PL)
+  biography: 实验室修电脑的。推免至中国科学院软件研究所。研究方向：软件安全(Software Security)、程序语言(PL)
   position: member
   cv: 
 
 - name: 陈依玲
-  photo: cyl.jpg
+  photo: cly.jpg
   info: 21级信息安全
   email: 
   biography: 推免至复旦大学。
@@ -57,8 +80,8 @@
 - name: 李盛
   photo: lisheng.jpg
   info: 21级网络空间安全实验班
-  email: 
-  biography: 推免至中科院信工所。
+  email: wirs368@163.com
+  biography: 实验室闲人，推免至中科院信工所。研究方向:漏洞挖掘
   position: member
   cv: 
 
