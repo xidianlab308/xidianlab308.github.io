@@ -75,3 +75,7 @@ lightgallery: true
 1. [DolphinAttack: Inaudible Voice Commands](https://dl.acm.org/doi/abs/10.1145/3133956.3134052)
 
 2. [DeWiCam: Detecting Hidden Wireless Cameras via Smartphones](https://dl.acm.org/doi/10.1145/3196494.3196509)
+
+# 人工智能
+
+用pytorch在任意数据集上用cnn实现图像分类。
