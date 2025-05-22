@@ -2,7 +2,7 @@
 title: Lattice based commitment scheme
 date: 2025-05-13 19:55:54
 draft: false
-tags: "格密码"
+tags: ["格密码"]
 author: "anonymous"
 
 lightgallery: true
