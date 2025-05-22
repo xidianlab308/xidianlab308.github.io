@@ -1,27 +1,4 @@
 <div>
-    <!-- <h2 id="director">主任</h2>
-    {{ range .Site.Data.team_zh }}
-    {{ if eq .position "director" }}
-        <div class="team-member">
-            <div class="team-member-photo">
-                <img src="/team/{{ .photo }}">
-            </div>
-            {{ if .cv }}
-            <a href="{{ .cv }}">
-                <h3 style="margin-bottom: 0px;">{{ .name }}</h3>
-            </a>
-            {{ else }}
-            <h3 style="margin-bottom: 0px;">{{ .name }}</h3>
-            {{ end }}
-            <p>
-                <i class="fas fa-user fa-fw"></i>&nbsp;{{ .info }}<br>
-                <i class="fas fa-envelope fa-fw"></i>&nbsp;{{.email}}<br>
-            </p>
-            <p style="text-align:justify"><i class="fas fa-info-circle fa-fw"></i>&nbsp;{{ .biography }}</p>
-        </div>
-    {{ end }}
-    {{ end }} -->
-
     <h2 id="member">成员</h2>
     {{ range .Site.Data.team_zh }}
     {{ if eq .position "member" }}

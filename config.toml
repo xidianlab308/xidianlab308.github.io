@@ -130,6 +130,14 @@ theme = 'LoveIt'
         url = "/team/"
         title = ""
         weight = 3
+      [[languages.zh-cn.menu.main]]
+        identifier = "blog"
+        pre = ""
+        post = ""
+        name = "博客"
+        url = "/blog/"
+        title = ""
+        weight = 4
 #      [[languages.zh-cn.menu.main]]
 #        identifier = "research"
 #        pre = ""
