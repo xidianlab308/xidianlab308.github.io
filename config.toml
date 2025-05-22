@@ -135,7 +135,7 @@ theme = 'LoveIt'
         pre = ""
         post = ""
         name = "博客"
-        url = "/blog/"
+        url = "/posts/"
         title = ""
         weight = 4
 #      [[languages.zh-cn.menu.main]]
